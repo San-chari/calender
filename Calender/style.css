@@ -1,0 +1,50 @@
+body{
+
+}
+
+
+.calender{
+    margin: auto;
+    max-width: 800px;
+    font-size: serif;
+    font-weight:bold ;
+    color: rgb(207, 156, 156);
+}
+
+.month{
+    text-align: centre;
+    background-color:whitesmoke ;
+    font-family: 80px ;
+    letter-spacing: 1px;
+    color:black;
+    border: 2px solid rgb(78, 11, 69);
+}
+
+table, th , td{
+    width:300px ;
+    table-layout:30px ;
+    text-align: ;
+    font: 27px;
+    border-collapse: ;
+    border: 5px solid rgb(157, 140, 140) ;
+    font-family: Elephant;
+}
+
+tr, th,td{
+    padding:15px;
+}
+th{
+    background: #450099;
+    color: rgb(255, 255, 255);
+    font-family: 'Times', Times, serif;
+
+}
+td{
+    background:#7439b2;
+    color-scheme: rgb(139, 139, 71);
+}
+
+td:hover{
+    background: rgb(96, 57, 215) ;
+
+}
